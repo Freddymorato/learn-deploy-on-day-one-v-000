@@ -1,6 +1,14 @@
 /* GLOBAL STYLES
 ======================== */
 
+#Frederico-Morato-cover {
+    background-image: url("http://i.imgur.com/xxoZZ4u.jpg");
+}
+
+ #Frederico-Morato-card {
+    background-image: url("http://i.imgur.com/cLSyBGx.png");
+}
+
 *, *:before, *:after {
   box-sizing: border-box;
   /*border: 1px solid red;*/
@@ -3498,12 +3506,12 @@ a:visited {
 
 #richard-hutsko-cover {
   background-image: url("http://i.imgur.com/VOEmT2Q.jpg");
-  
+
 }
 
 #richard-hutsko-card {
   background-image: url("http://i.imgur.com/7KGTYMI.png");
-  
+
 }
 
 #bruce-molina-card {
